@@ -1,0 +1,11 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 4\HighLow\HighLow\bin\Debug\netcoreapp2.0\HighLow.deps.json
+C:\Users\md145823\Desktop\C# Project\Chapter 4\HighLow\HighLow\bin\Debug\netcoreapp2.0\HighLow.runtimeconfig.json
+C:\Users\md145823\Desktop\C# Project\Chapter 4\HighLow\HighLow\bin\Debug\netcoreapp2.0\HighLow.runtimeconfig.dev.json
+C:\Users\md145823\Desktop\C# Project\Chapter 4\HighLow\HighLow\bin\Debug\netcoreapp2.0\HighLow.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 4\HighLow\HighLow\bin\Debug\netcoreapp2.0\HighLow.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 4\HighLow\HighLow\obj\Debug\netcoreapp2.0\HighLow.csprojAssemblyReference.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 4\HighLow\HighLow\obj\Debug\netcoreapp2.0\HighLow.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 4\HighLow\HighLow\obj\Debug\netcoreapp2.0\HighLow.AssemblyInfoInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 4\HighLow\HighLow\obj\Debug\netcoreapp2.0\HighLow.AssemblyInfo.cs
+C:\Users\md145823\Desktop\C# Project\Chapter 4\HighLow\HighLow\obj\Debug\netcoreapp2.0\HighLow.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 4\HighLow\HighLow\obj\Debug\netcoreapp2.0\HighLow.pdb

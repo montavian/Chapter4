@@ -1,0 +1,11 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 4\CheckCredit\CheckCredit\obj\Debug\netcoreapp2.0\CheckCredit.csprojAssemblyReference.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 4\CheckCredit\CheckCredit\obj\Debug\netcoreapp2.0\CheckCredit.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 4\CheckCredit\CheckCredit\obj\Debug\netcoreapp2.0\CheckCredit.AssemblyInfoInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 4\CheckCredit\CheckCredit\obj\Debug\netcoreapp2.0\CheckCredit.AssemblyInfo.cs
+C:\Users\md145823\Desktop\C# Project\Chapter 4\CheckCredit\CheckCredit\bin\Debug\netcoreapp2.0\CheckCredit.deps.json
+C:\Users\md145823\Desktop\C# Project\Chapter 4\CheckCredit\CheckCredit\bin\Debug\netcoreapp2.0\CheckCredit.runtimeconfig.json
+C:\Users\md145823\Desktop\C# Project\Chapter 4\CheckCredit\CheckCredit\bin\Debug\netcoreapp2.0\CheckCredit.runtimeconfig.dev.json
+C:\Users\md145823\Desktop\C# Project\Chapter 4\CheckCredit\CheckCredit\bin\Debug\netcoreapp2.0\CheckCredit.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 4\CheckCredit\CheckCredit\bin\Debug\netcoreapp2.0\CheckCredit.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 4\CheckCredit\CheckCredit\obj\Debug\netcoreapp2.0\CheckCredit.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 4\CheckCredit\CheckCredit\obj\Debug\netcoreapp2.0\CheckCredit.pdb

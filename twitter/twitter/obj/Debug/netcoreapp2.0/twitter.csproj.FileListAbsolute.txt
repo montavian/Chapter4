@@ -1,0 +1,11 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 4\twitter\twitter\bin\Debug\netcoreapp2.0\twitter.deps.json
+C:\Users\md145823\Desktop\C# Project\Chapter 4\twitter\twitter\bin\Debug\netcoreapp2.0\twitter.runtimeconfig.json
+C:\Users\md145823\Desktop\C# Project\Chapter 4\twitter\twitter\bin\Debug\netcoreapp2.0\twitter.runtimeconfig.dev.json
+C:\Users\md145823\Desktop\C# Project\Chapter 4\twitter\twitter\bin\Debug\netcoreapp2.0\twitter.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 4\twitter\twitter\bin\Debug\netcoreapp2.0\twitter.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 4\twitter\twitter\obj\Debug\netcoreapp2.0\twitter.csprojAssemblyReference.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 4\twitter\twitter\obj\Debug\netcoreapp2.0\twitter.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 4\twitter\twitter\obj\Debug\netcoreapp2.0\twitter.AssemblyInfoInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 4\twitter\twitter\obj\Debug\netcoreapp2.0\twitter.AssemblyInfo.cs
+C:\Users\md145823\Desktop\C# Project\Chapter 4\twitter\twitter\obj\Debug\netcoreapp2.0\twitter.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 4\twitter\twitter\obj\Debug\netcoreapp2.0\twitter.pdb

@@ -1,0 +1,11 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 4\Hurricane\Hurricane\bin\Debug\netcoreapp2.0\Hurricane.deps.json
+C:\Users\md145823\Desktop\C# Project\Chapter 4\Hurricane\Hurricane\bin\Debug\netcoreapp2.0\Hurricane.runtimeconfig.json
+C:\Users\md145823\Desktop\C# Project\Chapter 4\Hurricane\Hurricane\bin\Debug\netcoreapp2.0\Hurricane.runtimeconfig.dev.json
+C:\Users\md145823\Desktop\C# Project\Chapter 4\Hurricane\Hurricane\bin\Debug\netcoreapp2.0\Hurricane.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 4\Hurricane\Hurricane\bin\Debug\netcoreapp2.0\Hurricane.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 4\Hurricane\Hurricane\obj\Debug\netcoreapp2.0\Hurricane.csprojAssemblyReference.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 4\Hurricane\Hurricane\obj\Debug\netcoreapp2.0\Hurricane.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 4\Hurricane\Hurricane\obj\Debug\netcoreapp2.0\Hurricane.AssemblyInfoInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 4\Hurricane\Hurricane\obj\Debug\netcoreapp2.0\Hurricane.AssemblyInfo.cs
+C:\Users\md145823\Desktop\C# Project\Chapter 4\Hurricane\Hurricane\obj\Debug\netcoreapp2.0\Hurricane.dll
+C:\Users\md145823\Desktop\C# Project\Chapter 4\Hurricane\Hurricane\obj\Debug\netcoreapp2.0\Hurricane.pdb
